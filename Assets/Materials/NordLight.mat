@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NordLight
+  m_Shader: {fileID: 4800000, guid: 3fd67e91111bd423bb66d93e8d9f0147, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_4DC23887:
+        m_Texture: {fileID: 2800000, guid: 06923a0b1f8114655872568c749825c6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_875E8E33:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_87ABB4FE:
+        m_Texture: {fileID: 2800000, guid: f814e5f2e5f9d4fcb93a5f4e34ab0f9e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_9E0FA288:
+        m_Texture: {fileID: 2800000, guid: 4dbf7dbc5a5d14998bfa781577ab5474, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E0D10ED2:
+        m_Texture: {fileID: 2800000, guid: 635c853b5891a486ab8a171debaa051a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F306653:
+        m_Texture: {fileID: 2800000, guid: 4dbf7dbc5a5d14998bfa781577ab5474, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: 0e4adbb0ef3a843c0b07cda2f5bed85c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_B874048A_Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7D2386CB_Texture:
+        m_Texture: {fileID: 2800000, guid: 635c853b5891a486ab8a171debaa051a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_91AA30B6_Out:
+        m_Texture: {fileID: 2800000, guid: 4dbf7dbc5a5d14998bfa781577ab5474, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_29675994: 0.02
+    - Vector1_52166C4A: 15
+    - Vector1_5AA71A6A: 0.5
+    - Vector1_67AF531A: 0.02
+    - Vector1_7351598F: -0.02
+    - Vector1_7EA659A1: 5
+    - Vector1_A349FFCF: 4
+    - Vector1_A887E84E: 0.04
+    - Vector1_B25CCA13: 0.3
+    - Vector1_B60E89EA: 0.5
+    - Vector1_C61881F2: 600
+    - Vector1_C9D8D67: 0
+    - Vector1_D1C4B0D9: 0.1
+    - Vector1_DC4F859E: 0.04
+    - Vector1_E1739ACE: 0.4
+    - Vector1_F0BADC6C: 0.02
+    - Vector1_F55400DF: 0.6
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _ReceiveShadows: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    m_Colors:
+    - Color_8E070DB4: {r: 0, g: 1, b: 0.57780695, a: 1}
+    - Color_93050836: {r: 0, g: 1, b: 0.7505076, a: 1}
+    - Color_C65BCF8B: {r: 0.5032503, g: 1, b: 0.32549024, a: 1}
+    - Vector3_F0875969: {r: 1000, g: 500, b: 1000, a: 0}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
